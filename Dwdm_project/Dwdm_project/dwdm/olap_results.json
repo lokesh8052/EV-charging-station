@@ -1,0 +1,294 @@
+{
+  "city_count (stations)": {
+    "Goa": 3,
+    "Delhi": 58,
+    "Noida": 23,
+    "Thiruvananthapuram": 2,
+    "Panchkula": 1,
+    "Kolkata": 10,
+    "Chennai": 12,
+    "Ernakulam": 2,
+    "Muriyil": 1,
+    "Raipur": 2,
+    "Bangalore": 1,
+    "Nagpur": 1
+  },
+  "hourly_usage (sessions)": {
+    "0": 4802,
+    "1": 4721,
+    "2": 4747,
+    "3": 4711,
+    "4": 4723,
+    "5": 4693,
+    "6": 4765,
+    "7": 16726,
+    "8": 16984,
+    "9": 16686,
+    "10": 4812,
+    "11": 4875,
+    "12": 4776,
+    "13": 4877,
+    "14": 4732,
+    "15": 4760,
+    "16": 4721,
+    "17": 4749,
+    "18": 23911,
+    "19": 23832,
+    "20": 23969,
+    "21": 24072,
+    "22": 23908,
+    "23": 4799
+  },
+  "hourly_energy (kWh)": {
+    "0": 84406.17999999972,
+    "1": 82676.98999999989,
+    "2": 82775.46999999997,
+    "3": 82652.04000000004,
+    "4": 83261.78999999998,
+    "5": 82350.8899999999,
+    "6": 83398.32000000007,
+    "7": 293241.0999999989,
+    "8": 295804.8200000006,
+    "9": 291523.55999999994,
+    "10": 84057.81999999985,
+    "11": 84970.71999999991,
+    "12": 83674.85000000022,
+    "13": 85454.98999999985,
+    "14": 83068.80000000003,
+    "15": 83212.06000000008,
+    "16": 83010.66999999988,
+    "17": 83958.04999999994,
+    "18": 417901.54999999993,
+    "19": 419030.7600000001,
+    "20": 418699.75000000064,
+    "21": 420307.6900000003,
+    "22": 417919.98000000016,
+    "23": 84539.9099999999
+  },
+  "top_city_per_hour_sessions": {
+    "0": {
+      "city": "Delhi",
+      "sessions": 1731
+    },
+    "1": {
+      "city": "Delhi",
+      "sessions": 1714
+    },
+    "2": {
+      "city": "Delhi",
+      "sessions": 1759
+    },
+    "3": {
+      "city": "Delhi",
+      "sessions": 1764
+    },
+    "4": {
+      "city": "Delhi",
+      "sessions": 1698
+    },
+    "5": {
+      "city": "Delhi",
+      "sessions": 1687
+    },
+    "6": {
+      "city": "Delhi",
+      "sessions": 1762
+    },
+    "7": {
+      "city": "Delhi",
+      "sessions": 6013
+    },
+    "8": {
+      "city": "Delhi",
+      "sessions": 6157
+    },
+    "9": {
+      "city": "Delhi",
+      "sessions": 6045
+    },
+    "10": {
+      "city": "Delhi",
+      "sessions": 1735
+    },
+    "11": {
+      "city": "Delhi",
+      "sessions": 1790
+    },
+    "12": {
+      "city": "Delhi",
+      "sessions": 1769
+    },
+    "13": {
+      "city": "Delhi",
+      "sessions": 1758
+    },
+    "14": {
+      "city": "Delhi",
+      "sessions": 1764
+    },
+    "15": {
+      "city": "Delhi",
+      "sessions": 1716
+    },
+    "16": {
+      "city": "Delhi",
+      "sessions": 1697
+    },
+    "17": {
+      "city": "Delhi",
+      "sessions": 1729
+    },
+    "18": {
+      "city": "Delhi",
+      "sessions": 8602
+    },
+    "19": {
+      "city": "Delhi",
+      "sessions": 8608
+    },
+    "20": {
+      "city": "Delhi",
+      "sessions": 8696
+    },
+    "21": {
+      "city": "Delhi",
+      "sessions": 8772
+    },
+    "22": {
+      "city": "Delhi",
+      "sessions": 8698
+    },
+    "23": {
+      "city": "Delhi",
+      "sessions": 1698
+    }
+  },
+  "top_city_per_hour_energy": {
+    "0": {
+      "city": "Delhi",
+      "energy_kwh": 30560.71
+    },
+    "1": {
+      "city": "Delhi",
+      "energy_kwh": 30400.37
+    },
+    "2": {
+      "city": "Delhi",
+      "energy_kwh": 30497.82
+    },
+    "3": {
+      "city": "Delhi",
+      "energy_kwh": 30849.62
+    },
+    "4": {
+      "city": "Delhi",
+      "energy_kwh": 29903.31
+    },
+    "5": {
+      "city": "Delhi",
+      "energy_kwh": 29425.6
+    },
+    "6": {
+      "city": "Delhi",
+      "energy_kwh": 31020.31
+    },
+    "7": {
+      "city": "Delhi",
+      "energy_kwh": 105451.96
+    },
+    "8": {
+      "city": "Delhi",
+      "energy_kwh": 107827.45
+    },
+    "9": {
+      "city": "Delhi",
+      "energy_kwh": 105840.54
+    },
+    "10": {
+      "city": "Delhi",
+      "energy_kwh": 30417.33
+    },
+    "11": {
+      "city": "Delhi",
+      "energy_kwh": 31183.07
+    },
+    "12": {
+      "city": "Delhi",
+      "energy_kwh": 31131.24
+    },
+    "13": {
+      "city": "Delhi",
+      "energy_kwh": 30497.59
+    },
+    "14": {
+      "city": "Delhi",
+      "energy_kwh": 31102.5
+    },
+    "15": {
+      "city": "Delhi",
+      "energy_kwh": 29721.12
+    },
+    "16": {
+      "city": "Delhi",
+      "energy_kwh": 30106.28
+    },
+    "17": {
+      "city": "Delhi",
+      "energy_kwh": 30515.14
+    },
+    "18": {
+      "city": "Delhi",
+      "energy_kwh": 151198.5
+    },
+    "19": {
+      "city": "Delhi",
+      "energy_kwh": 151606.35
+    },
+    "20": {
+      "city": "Delhi",
+      "energy_kwh": 150764.83
+    },
+    "21": {
+      "city": "Delhi",
+      "energy_kwh": 151197.81
+    },
+    "22": {
+      "city": "Delhi",
+      "energy_kwh": 151696.63
+    },
+    "23": {
+      "city": "Delhi",
+      "energy_kwh": 30030.86
+    }
+  },
+  "city_usage (sessions)": {
+    "Goa": 4560,
+    "Delhi": 89362,
+    "Noida": 35394,
+    "Thiruvananthapuram": 3074,
+    "Panchkula": 1514,
+    "Kolkata": 15456,
+    "Chennai": 18405,
+    "Ernakulam": 3184,
+    "Muriyil": 1535,
+    "Raipur": 3092,
+    "Bangalore": 1505,
+    "Nagpur": 1511
+  },
+  "city_energy (kWh)": {
+    "Goa": 80079.62999999986,
+    "Delhi": 1562946.9400000111,
+    "Noida": 618499.5200000018,
+    "Thiruvananthapuram": 54011.040000000066,
+    "Panchkula": 26300.119999999988,
+    "Kolkata": 271384.85999999836,
+    "Chennai": 323689.980000001,
+    "Ernakulam": 56207.70000000004,
+    "Muriyil": 27010.190000000002,
+    "Raipur": 54030.28000000007,
+    "Bangalore": 26798.63000000001,
+    "Nagpur": 26733.55999999999
+  },
+  "peak_hour_sessions": 21,
+  "peak_hour_energy": 21
+}
